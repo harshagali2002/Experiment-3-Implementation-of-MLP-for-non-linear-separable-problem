@@ -115,6 +115,6 @@ predict(w1,w2,test)
 
 OUTPUT:
 
-![image](<img width="594" alt="image" src="https://user-images.githubusercontent.com/116274340/197491528-aa389a0c-d456-435f-85da-fbacb8381043.png">)
+![image](https://github.com/harshagali2002/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/561629ec9b267b3bb9ca5de5f783a39e49881782/WhatsApp%20Image%202022-10-24%20at%2014.44.21.jpg)
 
 ** RESULT**
