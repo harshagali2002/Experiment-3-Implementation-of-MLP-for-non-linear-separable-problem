@@ -117,4 +117,8 @@ OUTPUT:
 
 ![image](https://github.com/harshagali2002/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/561629ec9b267b3bb9ca5de5f783a39e49881782/WhatsApp%20Image%202022-10-24%20at%2014.44.21.jpg)
 
+![image](
+
 ** RESULT**
+
+Thus, the implementation of MLP for non-linear separable problem is executed successfully.
